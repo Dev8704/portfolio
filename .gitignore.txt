@@ -1,0 +1,17 @@
+# Ignore assets and forms folders
+assets/
+forms/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env files
+.env
